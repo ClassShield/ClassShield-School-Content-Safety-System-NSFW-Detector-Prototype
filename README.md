@@ -1,9 +1,15 @@
+<p align="center">
+   <img src="images/logo.png" width="25%">
+</p>
+
 # ClassShield - School Content Safety System
 **Powered By AnveshAI**
 
 **A prototype AI-powered content safety system designed with ethical AI principles for educational environments.**
 
 ## Overview
+
+<img src="images/architecture_diagram.png">
 
 ClassShield (Powered By AnveshAI) is a demonstration prototype that showcases responsible AI implementation for content moderation in schools. The system uses a three-tier detection approach (local ML model, cloud API fallback, and heuristic) to identify potentially inappropriate images while prioritizing student privacy, human oversight, and transparency.
 
