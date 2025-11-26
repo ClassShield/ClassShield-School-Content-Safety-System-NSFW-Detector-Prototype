@@ -171,7 +171,7 @@ Complete documentation available in the web interface:
 
 ## License
 
-This is a prototype demonstration project for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
